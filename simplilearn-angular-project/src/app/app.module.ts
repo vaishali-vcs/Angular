@@ -13,8 +13,7 @@ import { CoursesComponent } from './Component/courses/courses.component';
 import { FooterComponent } from './Component/footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
-// https://www.youtube.com/watch?v=iZ1mlcCkY8A&ab_channel=Simplilearn
-// https://www.youtube.com/watch?v=geEWd7mDlTI&ab_channel=CodAffection
+
 @NgModule({
   declarations: [
     AppComponent,
